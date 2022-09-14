@@ -1,1 +1,1 @@
-# Projeto básico simulando um controle de estoque para determinado produto
+# Projeto básico simulando um controle de estoque para determinado produto😀
