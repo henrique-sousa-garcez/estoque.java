@@ -1,1 +1,1 @@
-# estoque.java
+# Projeto básico simulando um controle de estoque para determinado produto
